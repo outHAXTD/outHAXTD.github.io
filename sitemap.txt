@@ -1,4 +1,6 @@
-http://example.com/2024/03/18/%E4%BD%93%E8%A1%A8%E7%BB%93%E6%9E%84/
+http://example.com/2024/03/18/%E7%BD%91%E7%AB%99%E5%85%AC%E5%91%8A24-3-18/
 http://example.com/2024/03/18/%E8%B5%84%E6%BA%90%E6%95%B4%E5%90%88%E9%A1%B5/
+http://example.com/2024/03/18/%E4%BD%93%E8%A1%A8%E7%BB%93%E6%9E%84/
 http://example.com/
 http://example.com/tags/23%E5%BA%B7%E5%A4%8D/
+http://example.com/tags/%E5%85%AC%E5%91%8A/
